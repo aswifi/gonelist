@@ -128,3 +128,6 @@ token_path写`/etc/config/`，然后创建容器的最后地方的`Entrypoint`�
 <a href="https://github.com/zhangguanzhang"><img src="https://avatars3.githubusercontent.com/u/18641678?s=400&v=4" width="30"></a>
 - logo
   设计：<a href="http://lambertchan.me/"><img src="https://avatars0.githubusercontent.com/u/39192150?s=400&v=4" width="30"></a>
+  
+# HerokuDeploy
+[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
